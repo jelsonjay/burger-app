@@ -1,0 +1,65 @@
+
+[
+    {
+      "id": 1,
+      "title": "Insanity Burger",
+      "price": "5.29",
+      "image": "./images/burger-6.png"
+    },
+    {
+      "id": 2,
+      "title": "Best Turkey",
+      "price": "8.99",
+      "image": "./images/burger-7.png"
+    },
+    {
+      "id": 3,
+      "title": "The Burger King",
+      "price": "6.77",
+      "image": "./images/burger-4.png"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Burger",
+      "price": "7.99",
+      "image": "./images/burger11.png"
+    },
+    {
+      "id": 5,
+      "title": "Juiciest Chicken Burgers",
+      "price": "5.99",
+      "image": "./images/burger-9.png"
+    },
+       {
+      "id": 6,
+      "title": "Burger chips Icing Topper",
+      "price": "3.99",
+      "image": "./images/burger15.png"
+    },
+    {
+      "id": 7,
+      "title": "Egg Burger",
+      "price": "5.99",
+      "image": "./images/burger12.png"
+    },
+    {
+      "id": 8,
+      "title": "Crispy Chicken Burger",
+      "price": "6.99",
+      "image": "./images/burger13.png"
+    },
+           {
+      "id": 9,
+      "title": "Basic beef burger",
+      "price": "7.99",
+      "image": "./images/burger14.png"
+    },
+           {
+      "id": 10,
+      "title": "Burger and chips",
+      "price": "4.99",
+      "image": "./images/burger17.png"
+    }
+  ]
+  
+  
